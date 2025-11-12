@@ -1,1 +1,2 @@
 # project1
+This project is a simple and user-friendly Library Management System designed to make managing books and student records easier. It helps librarians keep track of books, handle issuing and returning, and check availability instantly — without any manual confusion or messy paperwork. With clean features for searching books, updating records, and monitoring due dates, this system makes day-to-day library tasks fast, organized, and hassle-free.
